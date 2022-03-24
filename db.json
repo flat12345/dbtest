@@ -1,12 +1,10 @@
 {
   "Actors": [
     {
-      "name": "Tom Cruise",
-
+      "name": "Tom Cruise"
     },
     {
-      "name": "Robert Downey Jr.",
-
+      "name": "Robert Downey Jr."
     }
   ]
 }

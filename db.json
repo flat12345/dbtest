@@ -1,18 +1,22 @@
 {
-  "employees":[
+  "posts":[
     {
+      "postid:" 1,
       "name":"Ram",
       "email":"ram@gmail.com",
       "age":23},
     {
+      "postid:" 1,
       "name":"Shyam",
       "email":"shyam23@gmail.com",
       "age":28},
     {
+      "postid:" 2,
       "name":"John",
       "email":"john@gmail.com",
       "age":33},
     {
+      "postid:" 3,
       "name":"Bob",
       "email":"bob32@gmail.com",
       "age":41

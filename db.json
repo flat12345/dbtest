@@ -1,25 +1,18 @@
-
-
-
-[
-  {
-    "name": "Ram",
-    "email": "ram@gmail.com",
-    "age": 23
-  },
-  {
-    "name": "Shyam",
-    "email": "shyam23@gmail.com",
-    "age": 28
-  },
-  {
-    "name": "Pina",
-    "email": "john@gmail.com",
-    "age": 33
-  },
-  {
-    "name": "Bob",
-    "email": "bob32@gmail.com",
-    "age": 41
-  }
-]
+{
+  "Actors": [
+    {
+      "name": "Tom Cruise",
+      "age": 56,
+      "Born At": "Syracuse, NY",
+      "Birthdate": "July 3, 1962",
+      "photo": "https://jsonformatter.org/img/tom-cruise.jpg"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "age": 53,
+      "Born At": "New York City, NY",
+      "Birthdate": "April 4, 1965",
+      "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+    }
+  ]
+}

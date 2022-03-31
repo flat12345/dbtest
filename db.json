@@ -1,32 +1,8 @@
-{
-  "posts":[
+
     {
       "id" : 1,
       "postid": 1,
       "name":"Ram",
       "email":"ram@gmail.com",
       "age":23
-    },
-    {
-      "id" : 2,
-      "postid": 1,
-      "name":"Shyam",
-      "email":"shyam23@gmail.com",
-      "age":28
-    },
-    {
-      "id" : 3,
-      "postid": 2,
-      "name":"John",
-      "email":"john@gmail.com",
-      "age":33
-    },
-    {
-      "id" : 4,
-      "postid": 3,
-      "name":"Bob",
-      "email":"bob32@gmail.com",
-      "age":41
     }
-  ]
-}
